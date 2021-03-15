@@ -3623,5 +3623,5 @@
 0.0.0.0 verification-va.byteoversea.com
 0.0.0.0 www.tiktok.com
 0.0.0.0 s16.tiktokcdn.com
-0.0.0.0 (\.|^)googlevideo\.com$
-0.0.0.0 (\.|^)youtube\.com$
+0.0.0.0 googlevideo.com
+0.0.0.0 youtube.com
